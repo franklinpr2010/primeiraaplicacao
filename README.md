@@ -1,11 +1,11 @@
 # PrimeiraAngular
 
-Apenas uma POC de um projeto angular.
+Poc project Angular
 
---Instalar o Node v9.3.0--
+##Instalar o Node v12.00 or later##
 
---Angular cli-- 
+##Angular cli## 
     npm install -g @angular/cli@1.6.3
     
---Instalar o VSC com as extenções do Auto Import, Angular v5 Snnipers e vscode icons.--
+##Instalar o VSC com as extenções do Auto Import, Angular v5 Snnipers e vscode icons.##
 
